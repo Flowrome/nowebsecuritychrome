@@ -1,6 +1,6 @@
 {
   "name": "nowebsecurity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "start": "node ./index.js"
   },
   "bin": {
-    "nowebsecurity": "node ./index.js"
+    "nowebsecurity": "./index.js"
   },
   "author": "Flowrome",
   "license": "ISC",
