@@ -1,0 +1,19 @@
+{
+  "name": "nowebsecurity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "bin": {
+    "nowebsecurity": "node ./index.js"
+  },
+  "author": "Flowrome",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "prompts": "^2.3.2"
+  }
+}
